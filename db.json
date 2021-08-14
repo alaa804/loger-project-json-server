@@ -1,0 +1,61 @@
+{
+  "logs": [
+    {
+      "message": "fix the kinds of bugs",
+      "attention": true,
+      "tech": "John Karry",
+      "date": 2021,
+      "id": 5
+    },
+    {
+      "message": "fix the workstation Server 007",
+      "attention": false,
+      "tech": "John Karry",
+      "date": 2021,
+      "id": 6
+    },
+    {
+      "message": "fix the workstation 012",
+      "attention": true,
+      "tech": "David Jane",
+      "date": 2021,
+      "id": 7
+    },
+    {
+      "message": "fix the network of workstation 006",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": 2021,
+      "id": 8
+    },
+    {
+      "message": "wireless down",
+      "attention": true,
+      "tech": "David Jane",
+      "date": 2021,
+      "id": 9
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "marry",
+      "lastName": "smith",
+      "id": 1
+    },
+    {
+      "firstName": "greg ",
+      "lastName": "harris",
+      "id": 2
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Jhonson",
+      "id": 3
+    },
+    {
+      "firstName": "aymen",
+      "lastName": "ben mohamed",
+      "id": 4
+    }
+  ]
+}
